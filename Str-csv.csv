@@ -1,0 +1,19 @@
+Field,Value,Mapped as,Notes
+CODICE ESERCIZIO,2,ref,
+comune,GRADO,,geocoding
+categoria,3 Stelle ***,stars,
+denominazione,ZUBERTI,name,
+indirizzo,"PIAZZA CARPACCIO, 29",,geocoding
+cap,34073,,geocoding
+telefono,0431 80196,phone,to be normalized
+email,info@hotelzuberti.it,email,
+sito,http://www.hotelzuberti.it,website,
+n_camere,9,rooms,
+n_posti_letto,25,beds,
+periodo_apertura,01.I  31.XII,opening_hours,to be normalized
+varie_interesse_storico,NO,historic=yes,
+accessibile,Non accessibile,wheelchair,
+ristorante,NO,restaurant,
+tavola_calda,NO,fast_food,
+bar,SI,bar,
+giochi_bambini,SI,playground,
